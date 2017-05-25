@@ -1,0 +1,5 @@
+{
+  "require": {
+    "unreal4u/telegramapi": "~2.4"
+  }
+}
